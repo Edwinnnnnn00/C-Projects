@@ -1,0 +1,14 @@
+/home/edwinooi/Desktop/Learning/CsharpProjects/DebuggingProject/bin/Debug/net8.0/DebuggingProject
+/home/edwinooi/Desktop/Learning/CsharpProjects/DebuggingProject/bin/Debug/net8.0/DebuggingProject.deps.json
+/home/edwinooi/Desktop/Learning/CsharpProjects/DebuggingProject/bin/Debug/net8.0/DebuggingProject.runtimeconfig.json
+/home/edwinooi/Desktop/Learning/CsharpProjects/DebuggingProject/bin/Debug/net8.0/DebuggingProject.dll
+/home/edwinooi/Desktop/Learning/CsharpProjects/DebuggingProject/bin/Debug/net8.0/DebuggingProject.pdb
+/home/edwinooi/Desktop/Learning/CsharpProjects/DebuggingProject/obj/Debug/net8.0/DebuggingProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/edwinooi/Desktop/Learning/CsharpProjects/DebuggingProject/obj/Debug/net8.0/DebuggingProject.AssemblyInfoInputs.cache
+/home/edwinooi/Desktop/Learning/CsharpProjects/DebuggingProject/obj/Debug/net8.0/DebuggingProject.AssemblyInfo.cs
+/home/edwinooi/Desktop/Learning/CsharpProjects/DebuggingProject/obj/Debug/net8.0/DebuggingProject.csproj.CoreCompileInputs.cache
+/home/edwinooi/Desktop/Learning/CsharpProjects/DebuggingProject/obj/Debug/net8.0/DebuggingProject.dll
+/home/edwinooi/Desktop/Learning/CsharpProjects/DebuggingProject/obj/Debug/net8.0/refint/DebuggingProject.dll
+/home/edwinooi/Desktop/Learning/CsharpProjects/DebuggingProject/obj/Debug/net8.0/DebuggingProject.pdb
+/home/edwinooi/Desktop/Learning/CsharpProjects/DebuggingProject/obj/Debug/net8.0/DebuggingProject.genruntimeconfig.cache
+/home/edwinooi/Desktop/Learning/CsharpProjects/DebuggingProject/obj/Debug/net8.0/ref/DebuggingProject.dll

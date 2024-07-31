@@ -1,0 +1,14 @@
+/home/edwinooi/Desktop/CsharpProjects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final
+/home/edwinooi/Desktop/CsharpProjects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.deps.json
+/home/edwinooi/Desktop/CsharpProjects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.runtimeconfig.json
+/home/edwinooi/Desktop/CsharpProjects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.dll
+/home/edwinooi/Desktop/CsharpProjects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.pdb
+/home/edwinooi/Desktop/CsharpProjects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/home/edwinooi/Desktop/CsharpProjects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.AssemblyInfoInputs.cache
+/home/edwinooi/Desktop/CsharpProjects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.AssemblyInfo.cs
+/home/edwinooi/Desktop/CsharpProjects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.csproj.CoreCompileInputs.cache
+/home/edwinooi/Desktop/CsharpProjects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.dll
+/home/edwinooi/Desktop/CsharpProjects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/refint/Final.dll
+/home/edwinooi/Desktop/CsharpProjects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.pdb
+/home/edwinooi/Desktop/CsharpProjects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.genruntimeconfig.cache
+/home/edwinooi/Desktop/CsharpProjects/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/ref/Final.dll

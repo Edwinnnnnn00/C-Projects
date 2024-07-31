@@ -1,0 +1,14 @@
+/home/edwinooi/Desktop/Learning/CsharpProjects/ThrowExceptionProject/bin/Debug/net8.0/ThrowExceptionProject
+/home/edwinooi/Desktop/Learning/CsharpProjects/ThrowExceptionProject/bin/Debug/net8.0/ThrowExceptionProject.deps.json
+/home/edwinooi/Desktop/Learning/CsharpProjects/ThrowExceptionProject/bin/Debug/net8.0/ThrowExceptionProject.runtimeconfig.json
+/home/edwinooi/Desktop/Learning/CsharpProjects/ThrowExceptionProject/bin/Debug/net8.0/ThrowExceptionProject.dll
+/home/edwinooi/Desktop/Learning/CsharpProjects/ThrowExceptionProject/bin/Debug/net8.0/ThrowExceptionProject.pdb
+/home/edwinooi/Desktop/Learning/CsharpProjects/ThrowExceptionProject/obj/Debug/net8.0/ThrowExceptionProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/edwinooi/Desktop/Learning/CsharpProjects/ThrowExceptionProject/obj/Debug/net8.0/ThrowExceptionProject.AssemblyInfoInputs.cache
+/home/edwinooi/Desktop/Learning/CsharpProjects/ThrowExceptionProject/obj/Debug/net8.0/ThrowExceptionProject.AssemblyInfo.cs
+/home/edwinooi/Desktop/Learning/CsharpProjects/ThrowExceptionProject/obj/Debug/net8.0/ThrowExceptionProject.csproj.CoreCompileInputs.cache
+/home/edwinooi/Desktop/Learning/CsharpProjects/ThrowExceptionProject/obj/Debug/net8.0/ThrowExceptionProject.dll
+/home/edwinooi/Desktop/Learning/CsharpProjects/ThrowExceptionProject/obj/Debug/net8.0/refint/ThrowExceptionProject.dll
+/home/edwinooi/Desktop/Learning/CsharpProjects/ThrowExceptionProject/obj/Debug/net8.0/ThrowExceptionProject.pdb
+/home/edwinooi/Desktop/Learning/CsharpProjects/ThrowExceptionProject/obj/Debug/net8.0/ThrowExceptionProject.genruntimeconfig.cache
+/home/edwinooi/Desktop/Learning/CsharpProjects/ThrowExceptionProject/obj/Debug/net8.0/ref/ThrowExceptionProject.dll

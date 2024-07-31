@@ -1,0 +1,14 @@
+/home/edwinooi/Desktop/Learning/CsharpProjects/GuidedProjectMethods/bin/Debug/net8.0/GuidedProjectMethods
+/home/edwinooi/Desktop/Learning/CsharpProjects/GuidedProjectMethods/bin/Debug/net8.0/GuidedProjectMethods.deps.json
+/home/edwinooi/Desktop/Learning/CsharpProjects/GuidedProjectMethods/bin/Debug/net8.0/GuidedProjectMethods.runtimeconfig.json
+/home/edwinooi/Desktop/Learning/CsharpProjects/GuidedProjectMethods/bin/Debug/net8.0/GuidedProjectMethods.dll
+/home/edwinooi/Desktop/Learning/CsharpProjects/GuidedProjectMethods/bin/Debug/net8.0/GuidedProjectMethods.pdb
+/home/edwinooi/Desktop/Learning/CsharpProjects/GuidedProjectMethods/obj/Debug/net8.0/GuidedProjectMethods.GeneratedMSBuildEditorConfig.editorconfig
+/home/edwinooi/Desktop/Learning/CsharpProjects/GuidedProjectMethods/obj/Debug/net8.0/GuidedProjectMethods.AssemblyInfoInputs.cache
+/home/edwinooi/Desktop/Learning/CsharpProjects/GuidedProjectMethods/obj/Debug/net8.0/GuidedProjectMethods.AssemblyInfo.cs
+/home/edwinooi/Desktop/Learning/CsharpProjects/GuidedProjectMethods/obj/Debug/net8.0/GuidedProjectMethods.csproj.CoreCompileInputs.cache
+/home/edwinooi/Desktop/Learning/CsharpProjects/GuidedProjectMethods/obj/Debug/net8.0/GuidedProjectMethods.dll
+/home/edwinooi/Desktop/Learning/CsharpProjects/GuidedProjectMethods/obj/Debug/net8.0/refint/GuidedProjectMethods.dll
+/home/edwinooi/Desktop/Learning/CsharpProjects/GuidedProjectMethods/obj/Debug/net8.0/GuidedProjectMethods.pdb
+/home/edwinooi/Desktop/Learning/CsharpProjects/GuidedProjectMethods/obj/Debug/net8.0/GuidedProjectMethods.genruntimeconfig.cache
+/home/edwinooi/Desktop/Learning/CsharpProjects/GuidedProjectMethods/obj/Debug/net8.0/ref/GuidedProjectMethods.dll

@@ -1,0 +1,14 @@
+/home/edwinooi/Desktop/Learning/CsharpProjects/ExceptionProject/bin/Debug/net8.0/ExceptionProject
+/home/edwinooi/Desktop/Learning/CsharpProjects/ExceptionProject/bin/Debug/net8.0/ExceptionProject.deps.json
+/home/edwinooi/Desktop/Learning/CsharpProjects/ExceptionProject/bin/Debug/net8.0/ExceptionProject.runtimeconfig.json
+/home/edwinooi/Desktop/Learning/CsharpProjects/ExceptionProject/bin/Debug/net8.0/ExceptionProject.dll
+/home/edwinooi/Desktop/Learning/CsharpProjects/ExceptionProject/bin/Debug/net8.0/ExceptionProject.pdb
+/home/edwinooi/Desktop/Learning/CsharpProjects/ExceptionProject/obj/Debug/net8.0/ExceptionProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/edwinooi/Desktop/Learning/CsharpProjects/ExceptionProject/obj/Debug/net8.0/ExceptionProject.AssemblyInfoInputs.cache
+/home/edwinooi/Desktop/Learning/CsharpProjects/ExceptionProject/obj/Debug/net8.0/ExceptionProject.AssemblyInfo.cs
+/home/edwinooi/Desktop/Learning/CsharpProjects/ExceptionProject/obj/Debug/net8.0/ExceptionProject.csproj.CoreCompileInputs.cache
+/home/edwinooi/Desktop/Learning/CsharpProjects/ExceptionProject/obj/Debug/net8.0/ExceptionProject.dll
+/home/edwinooi/Desktop/Learning/CsharpProjects/ExceptionProject/obj/Debug/net8.0/refint/ExceptionProject.dll
+/home/edwinooi/Desktop/Learning/CsharpProjects/ExceptionProject/obj/Debug/net8.0/ExceptionProject.pdb
+/home/edwinooi/Desktop/Learning/CsharpProjects/ExceptionProject/obj/Debug/net8.0/ExceptionProject.genruntimeconfig.cache
+/home/edwinooi/Desktop/Learning/CsharpProjects/ExceptionProject/obj/Debug/net8.0/ref/ExceptionProject.dll
